@@ -1,0 +1,9 @@
+git tutorials:
+text-based
+http://www.vogella.com/articles/Git/article.html#gitdefintion
+http://git-scm.com/book
+video
+http://www.youtube.com/watch?v=OFkgSjRnay4
+http://youtu.be/ZDR433b0HJY
+Note:
+Keep in mind that git itself is something you can do from command line. Though you may prefer a GUI Git Cclient. Two free ones are SourceTree (Mac) and TortiseGit (PC).
