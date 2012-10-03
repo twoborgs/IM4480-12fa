@@ -13,3 +13,4 @@ Game Project
 --- adding your name below. -----
 --- Then Stage and Commit it. ---
 ---------------------------------
+Elliot Jobe 
